@@ -8,7 +8,7 @@ A python script that generates env wallets with a 12-world mnemonic phrase.
 
 ## Getting started
 
-# Dependencies
+### Dependencies
 
 * [mnemonic](https://pypi.org/project/mnemonic/)
   ```
@@ -18,9 +18,8 @@ A python script that generates env wallets with a 12-world mnemonic phrase.
   ```
   pip install eth-account
   ```
----
  
-## Executing program
+### Executing program
 
 ```
 python Wallets.py
