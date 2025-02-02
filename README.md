@@ -22,5 +22,5 @@ A python script that generates env wallets with a 12-world mnemonic phrase.
 ### Executing program
 
 ```
-python Wallets.py
+python Wallets.py <output_file>
 ```
