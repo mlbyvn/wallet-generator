@@ -2,7 +2,7 @@
 ---
 
 ## Description
-A python script that generates env wallets with a 12-world mnemonic phrase.
+A python script that generates evm wallets with a 12-world mnemonic phrase.
 
 ---
 
